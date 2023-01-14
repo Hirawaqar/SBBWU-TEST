@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842869608585",
+    "project_id": "korea-c3b9d",
+    "storage_bucket": "korea-c3b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842869608585:android:cf34c64685fe543f22f658",
+        "android_client_info": {
+          "package_name": "com.example.sbbwu_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842869608585-t3t0r3f3ida8t9t4jfv95cknhrld5nbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLfm60UcyxjThcpTGlFqtKbA_sTe_IzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842869608585-t3t0r3f3ida8t9t4jfv95cknhrld5nbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
